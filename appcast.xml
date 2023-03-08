@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Tiempo</title>
+        <title>Tiempo 1.0.1</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 08 Mar 2023 11:35:52 -0400</pubDate>
+            <title>Tiempo 1.0.1</title>
+            <pubDate>Wed, 08 Mar 2023 19:32:25 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <enclosure url="Tiempo.dmg" length="1927143" type="application/octet-stream"/>
         </item>
