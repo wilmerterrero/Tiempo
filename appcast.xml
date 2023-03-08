@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Tiempo 1.0.1</title>
+        <title>Tiempo 1.0.2</title>
         <item>
-            <title>Tiempo 1.0.1</title>
+            <title>Tiempo 1.0.2</title>
             <pubDate>Wed, 08 Mar 2023 19:32:25 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
