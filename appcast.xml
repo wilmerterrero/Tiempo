@@ -4,11 +4,17 @@
         <title>Tiempo 1.0.2</title>
         <item>
             <title>Tiempo 1.0.2</title>
-            <pubDate>Wed, 08 Mar 2023 19:32:25 -0400</pubDate>
+            <pubDate>Wed, 08 Mar 2023 20:15:19 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="Tiempo.dmg" length="1927143" type="application/octet-stream"/>
+            <enclosure 
+                url="https://wilmerterrero.github.io/Tiempo/Tiempo.dmg"
+                sparkle:version="1.0.2"
+                sparkle:shortVersionString="1.0.2"
+                sparkle:edSignature="OHUV1o79q7v7DEWG+IVgCVF2bmFwmYwEtBOqYwGOTaM="
+                type="application/octet-stream"
+            />
         </item>
     </channel>
 </rss>
